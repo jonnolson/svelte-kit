@@ -18,7 +18,8 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		to the pleasure cave
+		<a href="https://jonnolson.com" target="_blank">Click here nigga</a>
 	</h1>
 
 	<h2>
